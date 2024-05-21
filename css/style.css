@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(0, 132, 255, 0.719);
+}
+.br{
+   
+}
+.card{
+    box-shadow: 15px 5px 15px 5px black;
+    margin: 10px;
+    border-radius: 20px;
+}
+.frontImg{
+    width: 150px;
+    height:auto;
+    margin: auto;
+    margin-top: 10px;
+}
+h1{
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+}
+.pousse{
+    width: 20px;
+    height: auto;
+    margin-right: 30px;
+}
+.jaime{
+    
+    margin-top: 10px;
+}
+#jaime-box{
+    margin-top: 20px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
